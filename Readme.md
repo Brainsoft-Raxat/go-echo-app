@@ -12,4 +12,4 @@ docker run -p 8080:8080 go-echo-app
 ## Endpoints
 
 - `/` - Returns "Hello, World!"
-- `/health` - Health check endpoint, returns JSON `{ "status": "healthy"
+- `/health` - Health check endpoint, returns JSON `{ "status": "healthy"}`
